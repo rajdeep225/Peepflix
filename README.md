@@ -17,6 +17,7 @@ You can check your feed anytime to see what your friends enjoyed watching and ad
 
 🔁This happens a lot to me. I am at a party a friend just told me about an awesome movie. Now, I have to keep repeating the name to remember it. Ohh gosh!! I again forgot it the next day. 😅 → Have similar feelings? Yayy!! We are on the way to fix it.  
   
+
 &nbsp;
 &nbsp;
 >## **Main Screens - Features & Functionality**
@@ -29,19 +30,25 @@ You can check your feed anytime to see what your friends enjoyed watching and ad
 
 🧑 **Profile** - Highlight of the content you have watched.
   
-  
+ 
+&nbsp;
+&nbsp;
 >## **Brownie Points**
 
 ✔️ **Simplicity** - Organising movies is as simple as swiping on Tinder
 
 ✔️ **Social -** Connect with the people who enjoy same movies and TV series as you.
-  
-  
+
+
+&nbsp;
+&nbsp;
 >## How to Join?
 
 Get The Android APP → [PlayStore](https://play.google.com/store/apps/details?id=com.peepflix.app)
-  
-  
+
+
+&nbsp;
+&nbsp;
 >## Upcoming Features
 
 1. Target Engagement for the Users
@@ -50,8 +57,9 @@ Get The Android APP → [PlayStore](https://play.google.com/store/apps/details?i
     3. Add a chat option in the app.
 2. Add bollywood content. - Content Variations — Let users contribute to the content.
 3. Make an extension to bring more content and auto mark content watched by user.
-  
-  
+
+&nbsp;
+&nbsp;
 >## If you have any questions or want to discuss about Peepflix? Contact us:
 
 1. Email -> [peepflix.app@gmail.com](mailto:peepflix.app@gmail.com)
