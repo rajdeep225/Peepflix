@@ -6,7 +6,7 @@
 &nbsp;  
 
 #### 🤔 Confused about what to watch?
-Just open your diary and pick anything from your wished movies or TV Series. Also, You can always watch again the liked movies or TV Series
+Just open your diary and pick anything from your wished movies or TV Series. Also, It's never a bad idea to watch again the movies or TV Series your enjoyed the first time.
 
 &nbsp;  
 #### 🧠 Ohh! You found an interesting movie. Now, where to watch it?
