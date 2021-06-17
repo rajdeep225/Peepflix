@@ -5,21 +5,21 @@
 
 &nbsp;  
 
-### 🤔 Confused about what to watch?
+#### 🤔 Confused about what to watch?
 Just open your diary and pick anything from your wished movies or TV Series. Also, You can always watch again the liked movies or TV Series
 
 &nbsp;  
-### 🧠 Ohh! You found an interesting movie. Now, where to watch it?
+#### 🧠 Ohh! You found an interesting movie. Now, where to watch it?
 While browsing you also get to know on the platforms on which the movie is streaming (Currently supporting Netflix, Prime, Hotstar, and More to come soon!). You can also search for any movie and know where to watch it.
 
 &nbsp;  
 
-### ⛓️Keep forgetting what your friend just recommended to watch?
+#### ⛓️Keep forgetting what your friend just recommended to watch?
 You can check your feed anytime to see what your friends enjoyed watching and add it to your Wishlist.
 
 &nbsp;  
 
-### 🔁This happens a lot to me. 
+#### 🔁This one happens a lot to me. 
 I am at a party a friend just told me about an awesome movie. Now, I have to keep repeating the name to remember it. Ohh gosh!! I again forgot it the next day. 😅 
 → Have similar feelings? Yayy!! We are on the way to fix it.  
   
