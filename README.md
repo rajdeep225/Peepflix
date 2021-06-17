@@ -1,4 +1,4 @@
->## **A social platform for movie buffs to explore, classify, discuss, and follow movies and TV series.**   
+>## 🚧**A social platform for movie buffs to explore, classify, discuss, and follow movies and TV series.**   
   
   
 👀  Peepflix is a place where you talk about the **movies and TV series** that you watch. You can **follow people** to build your circle and get the **recent movies or serials they watched or enjoyed watching** in your feed. You can create a **diary to organize** the movies and TV programs into **wished, watched, and liked movies**.
@@ -24,7 +24,7 @@ You can check your feed anytime to see what your friends enjoyed watching and ad
 
 &nbsp;
 &nbsp;
->## **Main Screens - Features & Functionality**
+>## 📱**Main Screens - Features & Functionality**
 
 🏠 **Home** - The **most watched, trending, good content** drops here. Just classify the old content to get the updated content.
 
@@ -37,7 +37,7 @@ You can check your feed anytime to see what your friends enjoyed watching and ad
  
 &nbsp;
 &nbsp;
->## **Brownie Points**
+>## 🎖️**Brownie Points**
 
 ✔️ **Simplicity** - Organising movies is as simple as swiping on Tinder
 
@@ -46,14 +46,14 @@ You can check your feed anytime to see what your friends enjoyed watching and ad
 
 &nbsp;
 &nbsp;
->## How to Join?
+>## 🤝**How to Join?**
 
 Get The Android APP → [PlayStore](https://play.google.com/store/apps/details?id=com.peepflix.app)
 
 
 &nbsp;
 &nbsp;
->## Upcoming Features
+>## ⚙️**Upcoming Features**
 
 1. Target Engagement for the Users
     1. Add commenting options in the feed. Comment and Reply
@@ -64,7 +64,7 @@ Get The Android APP → [PlayStore](https://play.google.com/store/apps/details?i
 
 &nbsp;
 &nbsp;
->## If you have any questions or want to discuss about Peepflix? Contact us:
+>## 🤙If you have any questions or want to discuss about Peepflix? Contact us:
 
 1. Email -> [peepflix.app@gmail.com](mailto:peepflix.app@gmail.com)
 2. Twitter → [@rajdeep225](https://twitter.com/rajdeep225)
