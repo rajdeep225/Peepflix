@@ -26,7 +26,7 @@ You can check your feed anytime to see what your friends enjoyed watching and ad
 
 🧑 **Profile** - Highlight of the content you have watched.
 
-**Brownie Points**
+### **Brownie Points**
 
 ✔️ **Simplicity** - Organising movies is as simple as swiping on Tinder
 
