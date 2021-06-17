@@ -1,4 +1,5 @@
->### **A social platform for movie buffs to explore, classify, discuss, and follow movies and TV series.**
+#Peepflix
+>## **A social platform for movie buffs to explore, classify, discuss, and follow movies and TV series.**
 
 👀  Peepflix is a place where you talk about the **movies and TV series** that you watch. You can **follow people** to build your circle and get the **recent movies or serials they watched or enjoyed watching** in your feed. You can create a **diary to organize** the movies and TV programs into **wished, watched, and liked movies**.
 
@@ -17,8 +18,7 @@ You can check your feed anytime to see what your friends enjoyed watching and ad
 🔁This happens a lot to me. I am at a party a friend just told me about an awesome movie. Now, I have to keep repeating the name to remember it. Ohh gosh!! I again forgot it the next day. 😅 → Have similar feelings? Yayy!! We are on the way to fix it.
 
 \
-\
->### **Main Screens - Features & Functionality**
+>## **Main Screens - Features & Functionality**
 
 🏠 **Home** - The **most watched, trending, good content** drops here. Just classify the old content to get the updated content.
 
@@ -29,22 +29,19 @@ You can check your feed anytime to see what your friends enjoyed watching and ad
 🧑 **Profile** - Highlight of the content you have watched.
 
 \
-\
->### **Brownie Points**
+>## **Brownie Points**
 
 ✔️ **Simplicity** - Organising movies is as simple as swiping on Tinder
 
 ✔️ **Social -** Connect with the people who enjoy same movies and TV series as you.
 
 \
-\
->### How to Join?
+>## How to Join?
 
 Get The Android APP → [PlayStore](https://play.google.com/store/apps/details?id=com.peepflix.app) ([https://play.google.com/store/apps/details?id=com.peepflix.app](https://play.google.com/store/apps/details?id=com.peepflix.app))
 
 \
-\
->### Upcoming Features
+>## Upcoming Features
 
 1. Target Engagement for the Users
     1. Add commenting options in the feed. Comment and Reply
@@ -54,8 +51,7 @@ Get The Android APP → [PlayStore](https://play.google.com/store/apps/details?i
 3. Make an extension to bring more content and auto mark content watched by user.
 
 \
-\
->### If you have any questions or want to discuss about Peepflix? Contact us:
+>## If you have any questions or want to discuss about Peepflix? Contact us:
 1. Email -> [peepflix.app@gmail.com](mailto:peepflix.app@gmail.com)
 2. Twitter → [@rajdeep225](https://twitter.com/rajdeep225)
 3. Tegram → [@rajdeep225](https://t.me/rajdeep225)
