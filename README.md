@@ -1,5 +1,3 @@
-Peepflix
-========
 >## **A social platform for movie buffs to explore, classify, discuss, and follow movies and TV series.**   
   
   
@@ -17,7 +15,8 @@ While browsing you also get to know on the platforms on which the movie is strea
 
 You can check your feed anytime to see what your friends enjoyed watching and add it to your Wishlist.
 
-🔁This happens a lot to me. I am at a party a friend just told me about an awesome movie. Now, I have to keep repeating the name to remember it. Ohh gosh!! I again forgot it the next day. 😅 → Have similar feelings? Yayy!! We are on the way to fix it.
+🔁This happens a lot to me. I am at a party a friend just told me about an awesome movie. Now, I have to keep repeating the name to remember it. Ohh gosh!! I again forgot it the next day. 😅 → Have similar feelings? Yayy!! We are on the way to fix it.  
+  
   
   
 >## **Main Screens - Features & Functionality**
