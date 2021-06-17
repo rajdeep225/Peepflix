@@ -1,4 +1,5 @@
-#Peepflix
+Peepflix
+========
 >## **A social platform for movie buffs to explore, classify, discuss, and follow movies and TV series.**
 
 👀  Peepflix is a place where you talk about the **movies and TV series** that you watch. You can **follow people** to build your circle and get the **recent movies or serials they watched or enjoyed watching** in your feed. You can create a **diary to organize** the movies and TV programs into **wished, watched, and liked movies**.
