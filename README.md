@@ -17,8 +17,8 @@ You can check your feed anytime to see what your friends enjoyed watching and ad
 
 🔁This happens a lot to me. I am at a party a friend just told me about an awesome movie. Now, I have to keep repeating the name to remember it. Ohh gosh!! I again forgot it the next day. 😅 → Have similar feelings? Yayy!! We are on the way to fix it.  
   
-  
-  
+&nbsp;
+&nbsp;
 >## **Main Screens - Features & Functionality**
 
 🏠 **Home** - The **most watched, trending, good content** drops here. Just classify the old content to get the updated content.
