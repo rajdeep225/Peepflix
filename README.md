@@ -70,4 +70,4 @@ Get The Android APP → [PlayStore](https://play.google.com/store/apps/details?i
 
 1. Email -> [peepflix.app@gmail.com](mailto:peepflix.app@gmail.com)
 2. Twitter → [@rajdeep225](https://twitter.com/rajdeep225)
-3. Tegram → [@rajdeep225](https://t.me/rajdeep225)
+3. Telegram → [@rajdeep225](https://t.me/rajdeep225)
